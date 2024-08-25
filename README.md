@@ -11,7 +11,7 @@ I am always eager to learn new technologies and apply them in real-world project
 ## 🌐 Connect with Me
 
 - **GitHub:** [DixitPrajapatii](https://github.com/DixitPrajapatii)
-- **LinkedIn:** [Dixit Prajapati](www.linkedin.com/in/dixit-prajapati)
+- **LinkedIn:** [Dixit Prajapati](https://www.linkedin.com/in/dixit-prajapati)
 - **Portfolio Website:** [www.dixitprajapati.com](https://www.dixitprajapati.com)
 
 ## 💡Data Engineering
