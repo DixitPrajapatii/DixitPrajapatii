@@ -28,7 +28,7 @@ Certainly! Here’s how you can present your daily tools with symbols, following
 
 - **GitHub:** [DixitPrajapatii](https://github.com/DixitPrajapatii)
 - **LinkedIn:** [Dixit Prajapati](https://www.linkedin.com/in/dixit-prajapati)
-- **Portfolio Website:** [www.dixitprajapati.com](https://www.dixitprajapati.com)
+- **Portfolio Website:** [Dixit Prajapati](https://www.dixitprajapati.com)
 
 ## 💡Data Engineering
 
