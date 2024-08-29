@@ -8,6 +8,22 @@ In the modern world, data is the new oil, and as a Data Engineer, I strive to re
 
 I am always eager to learn new technologies and apply them in real-world projects, continuously pushing the boundaries of what data can achieve.
 
+Certainly! Here’s how you can present your daily tools with symbols, following the same style:
+
+## 🛠️ Tools & Technology I Use Daily
+
+- **🛢️ Databases:** SQL, PostgreSQL, MySQL
+- **☁️ Cloud Services:** AWS, Azure, GCP
+- **💾 Cloud Storage:** Amazon S3, Azure Blob Storage
+- **🐳 Containerization:** Docker, Kubernetes
+- **🐘 Big Data:** Hadoop, Apache Spark, PySpark
+- **🖥️ IDEs:** VS Code, Jupyter Notebook
+- **🐍 Programming:** Python, SQL
+- **🔗 Version Control:** Git, GitHub, GitLab
+- **📊 Data Tools:** Power BI, Tableau, Databricks
+- **📦 Data Formats:** CSV, Parquet, JSON
+
+
 ## 🌐 Connect with Me
 
 - **GitHub:** [DixitPrajapatii](https://github.com/DixitPrajapatii)
