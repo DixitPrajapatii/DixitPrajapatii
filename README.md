@@ -1,6 +1,6 @@
 # Hi, I'm Dixit Prajapati 👋
 
-## 🚀 Data Engineering Enthusiast | Cloud-Native Architect | Big Data Innovator 🚀
+## 🚀 Data Engineer | Database Developer | Big Data Innovator 🚀
 
 I am a passionate Data Engineer with a deep interest in transforming raw data into valuable insights. My expertise lies in building robust data pipelines, designing scalable ETL processes, and working with Big Data technologies to empower data-driven decision-making.
 
